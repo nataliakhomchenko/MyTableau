@@ -1,2 +1,2 @@
 # MyTableau
-Demo dashboards
+Tableau demo dashboards
